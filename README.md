@@ -1,4 +1,4 @@
 forum
 =====
 
-A place to communicate via the repository's issues
+Think of this repository as a message board. [The issues are discussion threads](../../issues).
